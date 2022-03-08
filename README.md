@@ -8,9 +8,12 @@
 
 
 IOC	Name
-5.252.178.184	IPs related to Gamaredon and Actinium APT targeting Ukraine
+5.252.178.184	IPs related to Gamaredon and Actinium APT targeting Ukraine,
+
 5.252.178.188	IPs related to Gamaredon and Actinium APT targeting Ukraine
+
 2.59.36.204	IPs related to Gamaredon and Actinium APT targeting Ukraine
+
 5.252.178.183	IPs related to Gamaredon and Actinium APT targeting Ukraine
 2.59.36.194	IPs related to Gamaredon and Actinium APT targeting Ukraine
 deep-pondering[.]gortomalo[.]ru	URLs related to Gamaredon and Actinium APT targeting Ukraine
